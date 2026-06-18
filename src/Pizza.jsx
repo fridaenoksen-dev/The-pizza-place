@@ -1,10 +1,4 @@
-// const Pizza = (props) => {
-//   return React.createElement("div", {}, [
-//     React.createElement("h1", {}, props.name),
-//     React.createElement("p", {}, props.description),
-//   ]);
-// };
-
+// Export defult pizza
 const Pizza = (props) => {
   return (
     <div className="pizza">

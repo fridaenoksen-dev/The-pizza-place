@@ -1,5 +1,6 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
+import Pizza from "./Pizza";
 
 const Pizza = (props) => {
   return React.createElement("div", {}, [
